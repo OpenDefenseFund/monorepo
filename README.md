@@ -8,13 +8,15 @@ Owned by none, ODF is a consortium of organizations participating in an open for
 
 ### Members
 
-Across the member organizations, there is **$500K being deployed towards defending the internet**, in accordance to the values expressed below by each team:
+Across the member organizations, there is **$650K being deployed towards defending the internet**, in accordance to the values expressed below by each team:
 
-<p align="center"><img src="https://news.mask.io/uploads/3-23.png" height="100"> "The web is our bridge to humanitarian relief and citizen expression." ~ Suji Yan of <a href="https://mask.io/">Mask</a>, <b>40K+</b> users.</p>
+<p align="center"><img src="https://news.mask.io/uploads/3-23.png" height="100"> "The web is our bridge to humanitarian relief and citizen expression." ~ Suji Yan🇨🇳 of <a href="https://mask.io/">Mask</a>, <b>40K+</b> users.</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/gundb/gun-site/master/img/mark-nadal.png" height="100"> "Freedom, Fairness, & Fusion are algorithmic rights that the internet must protect." ~ Mark Nadal of <a href="https://gun.eco/">GUN</a>, <b>50M+</b> users.</p>
+<p align="center"><img src="https://raw.githubusercontent.com/gundb/gun-site/master/img/mark-nadal.png" height="100"> "Freedom, Fairness, & Fusion are algorithmic rights that the internet must protect." ~ Mark Nadal🇺🇸 of <a href="https://gun.eco/">GUN</a>, <b>50M+</b> users.</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/gundb/gun-site/master/img/bigmarh.png" height="100"> "Equity is being rewarded for participation without manipulation or barriers." ~ Lamar Wilson of <a href="https://www.blackbitcoinbillionaire.com">BBB</a>, <b>135K+</b> members.</p>
+<p align="center"><img src="https://raw.githubusercontent.com/gundb/gun-site/master/img/bigmarh.png" height="100"> "Equity is being rewarded for participation without manipulation or barriers." ~ Lamar Wilson🇺🇸 of <a href="https://www.blackbitcoinbillionaire.com">BBB</a>, <b>135K+</b> members.</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/gundb/gun-site/master/img/samwilliams.png" height="100"> "The web is humanity's best shot to bypass gatekeepers and speak to each other directly." ~ Sam Williams🇬🇧 of <a href="https://www.arweave.org/">Arweave</a>.
 
 ---
 <p align="center">Please fork and sign your own name, listing your values you wish to be reflected more loudly on the internet.</p>
