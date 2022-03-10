@@ -37,7 +37,7 @@ Currently, only 1 existing member needs to approve of your pull request and you 
 
  > **Are you seeking funding, grants, a fellowship or job?**
 
-If you align with ODF's mission, please write a proposal and submit it as a pull request, and we will route it to an appropriate person for review. If possible please include code demos, or at least a showcase of any past project(s) you are proud of.
+If you align with ODF's mission, [please write a proposal](./how-to-apply-for-funding-or-speak/README.md) and submit it as a pull request, and we will route it to an appropriate person for review. This can be for a conference or an art project, to show off a code demo, or anything relevant. Try to at least showcase any past project(s) you are proud of.
 
 ### Donation
 
