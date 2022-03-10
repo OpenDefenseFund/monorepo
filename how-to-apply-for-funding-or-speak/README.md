@@ -4,9 +4,9 @@ Want to apply for a grant or fellowship?
 
 Interested in getting hired at one of the member organizations?
 
-1. Click this link to start your own 'fork' of ODF.
+1. [Click this link to start](https://github.com/OpenDefenseFund/monorepo/edit/main/how-to-apply-for-funding-or-speak/README.md) your own 'fork' of ODF.
 
-2. Change the file name from `README.md` to your name.
+2. Important: Then change the file name from `README.md` to your name.
 
 3. Explain your idea, link to what you have done, ask for what you want done.
 
