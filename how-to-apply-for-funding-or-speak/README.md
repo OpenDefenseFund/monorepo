@@ -10,7 +10,7 @@ Interested in getting hired at one of the member organizations?
 
 3. Explain your idea, link to what you have done, ask for what you want done.
 
-4. 'Commit' it and a 'Pull Request' button should appear at the top of your page. Click it.Give it a nice summarizing title, optionally explain anything else, then click the 'Create pull request' button.
+4. 'Commit' it and a 'Pull Request' button should appear at the top of your page. Click it. Give it a nice summarizing title, optionally explain anything else, then click the 'Create pull request' button.
 
 5. We're all very busy so we may not see it at first. So please, go find all our twitters (or other contact info) and actively tweet the pull request link at us. Plus get anyone else to comment on it as well! Be vocal, represent yourself. Keep trying until you find someone to review it. Your idea is worth that effort, at minimum, yes?
 
