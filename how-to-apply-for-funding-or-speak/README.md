@@ -6,7 +6,7 @@ Interested in getting hired at one of the member organizations?
 
 1. [Click this link to start](https://github.com/OpenDefenseFund/monorepo/edit/main/how-to-apply-for-funding-or-speak/README.md) your own 'fork' of ODF.
 
-2. Important: Then change the file name from `README.md` to your name.
+2. Important: Then start or change a file in this folder with your name as the title.
 
 3. Explain your idea, link to what you have done, ask for what you want done.
 
