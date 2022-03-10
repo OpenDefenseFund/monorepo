@@ -30,6 +30,6 @@ I don't know. Ask? Maybe someone was jealous of your success and tried to exclud
 
 ### I need to chat with you privately before applying.
 
-That's not a question. You're free to do whatever you want, try messaging people. Likewise, you're not entitled to their time - they're dealing with their own traumas. Some have bills to pay, a grandparent who died. So be careful, trying helping them first, but even then, expect nothing.
+That's not a question. You're free to do whatever you want, try messaging people. Likewise, you're not entitled to their time - they're dealing with their own traumas. Some have bills to pay, a grandparent who died. So be careful, try helping them first, but even then, expect nothing.
 
 In all cases, the answer is no. If you need to talk to someone in private, try calling your mom (hopefully she's still alive... and nice, if so, she says she misses you!). If you're not brave enough to be transparent about your idea in public, you're success is likely to be 0% or you do not truly believe in Open Source.
