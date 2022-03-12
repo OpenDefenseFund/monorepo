@@ -1,6 +1,6 @@
 # The Open Defense Fund for Cultural Humanity
 
-Owned by none, ODF is a consortium of organizations participating in an open forum dedicated to protecting the future of the web. No member speaks for or represents the foundation or any other member in the think tank, all views come from a diverse range of ethnic and cultural heritages.
+Owned by none, ODF is a consortium of organizations participating in an open forum dedicated to protecting the future of the web. No member speaks for or represents the foundation or any other member in the think tank, all views come from a diverse range of cultural heritages.
 
 ### Mission
 
