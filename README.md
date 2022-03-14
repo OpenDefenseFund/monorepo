@@ -1,10 +1,10 @@
-# The Open Defense Fund for Cultural Humanity
+# The Open Defense Fund for the Decentralized Web
 
-Owned by none, ODF is a consortium of organizations participating in an open forum dedicated to protecting the future of the web. No member speaks for or represents the foundation or any other member in the think tank, all views come from a diverse range of ethnic and cultural heritages.
+Owned by none, ODF is a consortium of organizations participating in an open forum dedicated to protecting the future of the web. No member speaks for or represents the foundation or any other member in the think tank.
 
 ### Mission
 
- > ODF's mission is to facilitate healthy discourse between differing cultures by freely promoting corroborative facts with fair algorithms.
+ > ODF's mission is to facilitate open source projects that aim to further protect the web from monopoly, whether cultural or technological.
 
 ### Members
 
@@ -15,6 +15,8 @@ Across the member organizations, there is **$650K being deployed towards defendi
 <p align="center"><img src="https://raw.githubusercontent.com/gundb/gun-site/master/img/mark-nadal.png" height="100"> "Freedom, Fairness, & Fusion are algorithmic rights that the internet must protect." ~ <a href="https://twitter.com/marknadal">Mark Nadal</a>🇺🇸 of <a href="https://gun.eco/">GUN</a>, <b>50M+</b> users.</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/gundb/gun-site/master/img/bigmarh.png" height="100"> "Equity is being rewarded for participation without manipulation or barriers." ~ <a href="https://twitter.com/bigmarh">Lamar Wilson</a>🇺🇸 of <a href="https://www.blackbitcoinbillionaire.com">BBB</a>, <b>135K+</b> members.</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/gundb/gun-site/master/img/martti.png" height="100"> "Free and self-sustainable communities cannot thrive without p2p mechanisms." ~ <a href="https://twitter.com/marttimalmi">Martti Malmi</a>🇫🇮 of <a href="https://github.com/irislib/iris-messenger">Iris</a>, Satoshi's <a href="https://www.theverge.com/2015/6/10/8751933/the-shy-college-student-who-helped-build-bitcoin-into-a-global">1st Bitcoin</a> <a href="https://www.businessinsider.com/bitcoins-martti-malmi-not-worried-about-liberty-reserve-2013-5">contributor</a>.
 
 <p align="center"><img src="https://raw.githubusercontent.com/gundb/gun-site/master/img/jackson.png" height="100"> "In a linked-data future, humanity can leverage shared knowledge without it being monopolized." ~ <a href="https://twitter.com/otherJackson">Jackson Morgan</a>🇺🇸 of <a href="https://solid.mit.edu/">Solid</a>, used by<a href="https://www.bbc.com/news/technology-54871705">🇬🇧 gov/banks</a>.
  
