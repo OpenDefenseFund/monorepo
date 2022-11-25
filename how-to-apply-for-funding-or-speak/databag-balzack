@@ -1,0 +1,7 @@
+# Idea: Databag - Communication for the Decentralized Web
+
+Databag [https://github.com/balzack/databag] is a new federated & decentralized messenger. The existing federated services tend to be overly complex, non-federated, or require significant bandwidth and compute resources. Databag implements a messenger client on top of a simple open REST API, which can be run on low power hardware within a home network. This minimal resource profile is necessary in order to one day be ported to consumer electronics to react a wide audience.
+
+I've been working on this project entirely on my own for the last year. This isn't a point of pride as I know the project will need the support of a team, and not an individual to be successful. I currently have an MVP that I use to communicate with my family. I am to the point however where I need more feedback on all aspects of the system, from an admin installing a node, to a person using the client, to even a developer writing a new app with the network API.
+
+From ODF I am hoping to get some feedback on the project from it's general approach to it's implementation. As I continue to develop the project, perhaps I can get advice on how to foster an opensource developer community. 
